@@ -98,7 +98,4 @@ clash vpn, free v2ray, 免费翻墙观看, 2026 免翻电视
 
 ---
 
-### 第三步：设置 Topics 标签
-
-创建仓库后，在仓库主页右侧 **About** ⚙️ 处补充以下标签：
 `iptv`, `free-iptv`, `aiptv`, `solana`, `phantom-wallet`, `crypto-token`, `live-tv`, `clash`, `v2ray`, `free-vpn`。
