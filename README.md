@@ -4,13 +4,13 @@
 
 全球首款 Web3 零门槛免费电视解决方案！结合高速海外专线与 Solana 去中心化凭证，实现港澳台、欧美、日韩全天候高清直播免费看，随时退币退出[cite: 12]。
 
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🎁 核心福利合集 (Double Rewards)
 
 1. **免费高速网络**：注册 [haovpn.xyz](https://haovpn.xyz) 免费领 **200 GB** 高速不限速流量（邀请码：`cbT7Rfxg`），一键导入流畅拉取视频流。
 2. **免费看电视**：持有等值 $50 AIPTV 代币即可免费解锁全球电视，不看了随时卖币，本金自由进出[cite: 12]。
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
 
 ## 🇨🇳 中文操作指南
@@ -18,7 +18,7 @@
 ### 🌟 什么是 AIPTV 零成本观看模式？
 * **零订阅费**：无需按月缴费，只需在 Phantom（幻影钱包）中兑换持有 **$50 等额 AIPTV 代币**[cite: 12]。
 * **本金自由**：代币始终存放在您的钱包中，不想看时直接在 DEX（Raydium/Jupiter）卖出变现退出。
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 🛠️ 四步快速开通
 
 1. **兑换代币**：打开 Phantom 钱包，兑换等额 **$50** 的 AIPTV 代币（基于 Solana 链）[cite: 12]。
@@ -29,7 +29,7 @@
 2. **下载客户端**：前往 [tv6868.com](http://tv6868.com) 下载并安装 AIPTV APK[cite: 12]。
 3. **获取 UUID**：打开 App，复制屏幕上展示的 64 位应用 UUID[cite: 12]。
 4. **一键绑定激活**：进入官网 [aiptv.io](https://aiptv.io)，填入您的 **Solana 钱包地址**与 **UUID**，点击 **Submit Bind** 即可秒级解锁全部频道[cite: 12]。
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 📡 支持频道列表
 - 🇭🇰 中国香港、🇹🇼 中国台湾、🇲🇾 马来西亚,成人直播，深夜福利，海量影视，
 - 🇯🇵 日本、🇰🇷 韩国、🇬🇧 英国、🇺🇸 美国等海量高清电视频道[cite: 12]
