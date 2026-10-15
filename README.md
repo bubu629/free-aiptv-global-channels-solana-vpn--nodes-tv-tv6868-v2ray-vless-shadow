@@ -12,7 +12,8 @@
 2. **免费看电视**：持有等值 $50 AIPTV 代币即可免费解锁全球电视，不看了随时卖币，本金自由进出[cite: 12]。
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 🇨🇳 中文操作指南
 
 ### 🌟 什么是 AIPTV 零成本观看模式？
