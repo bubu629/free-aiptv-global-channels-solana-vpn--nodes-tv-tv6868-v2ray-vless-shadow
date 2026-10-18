@@ -15,7 +15,8 @@
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 ## 🇨🇳 中文操作指南
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 ### 🌟 什么是 AIPTV 零成本观看模式？
 * **零订阅费**：无需按月缴费，只需在 Phantom（幻影钱包）中兑换持有 **$50 等额 AIPTV 代币**[cite: 12]。
 * **本金自由**：代币始终存放在您的钱包中，不想看时直接在 DEX（Raydium/Jupiter）卖出变现退出。
@@ -35,7 +36,8 @@
 - 🇭🇰 中国香港、🇹🇼 中国台湾、🇲🇾 马来西亚,成人直播，深夜福利，海量影视，
 - 🇯🇵 日本、🇰🇷 韩国、🇬🇧 英国、🇺🇸 美国等海量高清电视频道[cite: 12]
 Netflix
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 Amazon Prime Video
 
 YouTube
