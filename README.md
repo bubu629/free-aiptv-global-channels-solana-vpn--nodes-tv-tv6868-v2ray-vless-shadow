@@ -8,7 +8,7 @@
 
 ## 🎁 核心福利合集 (Double Rewards)
 
-1. **免费高速网络**：注册 [haovpn.xyz](https://haovpn.xyz) 免费领 **200 GB** 高速不限速流量（邀请码：`cbT7Rfxg`），一键导入流畅拉取视频流。
+1. **免费高速网络**：注册 [haovpn.xyz](https://haovpn.xyz) 免费领 **200 GB** 高速不限速流量（邀请码：`cbT7Rfxg`），一键导入流畅拉取视频流。推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 2. **免费看电视**：持有等值 $50 AIPTV 代币即可免费解锁全球电视，不看了随时卖币，本金自由进出[cite: 12]。
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ---
@@ -22,7 +22,7 @@
 * **本金自由**：代币始终存放在您的钱包中，不想看时直接在 DEX（Raydium/Jupiter）卖出变现退出。
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 🛠️ 四步快速开通
-
+推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 1. **兑换代币**：打开 Phantom 钱包，兑换等额 **$50** 的 AIPTV 代币（基于 Solana 链）[cite: 12]。
    - **AIPTV 代币合约地址 (Mint Address)**[cite: 12]：
      ```text
