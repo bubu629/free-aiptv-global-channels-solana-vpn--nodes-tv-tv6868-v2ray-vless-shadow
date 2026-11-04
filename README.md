@@ -2,6 +2,16 @@
 免费全球电视直播 + 高速 VPN | 质押 AIPTV 代币免费畅看港澳台及欧美日韩频道 | 随看随退零门槛- tv6868.com
 # 📺 Free AIPTV Global Live & Ultra VPN | 免费全球电视与高速专线
 
+> ⚠️ **高阶用户注意：为什么换了节点，Claude / ChatGPT / 跨境店铺还是被封？**
+> 
+> 普通 VPN 仅改变网络出口，无法掩盖您本地电脑的底层硬件指纹与代理协议特征。如果您从事以下**高风控业务**，强烈建议升级使用我们的姐妹项目 **[MacHub — 加拿大原生 Mac mini 独享物理机](https://machub.co/)**：
+> * 🤖 **AI 编程防封**：原生加拿大本地宽带 + 真实 Apple 硬件，100% 告别 Claude / Cursor 封号与验证码。
+> * 🛍️ **跨境与多账号防关联**：Apple Developer 开发者账号、Stripe/PayPal 离岸网银、TikTok 矩阵物理级安全隔离。
+> * ⚡ **远程算力与 iOS 打包**：独享 M4/M6 芯片物理机，全权限 SSH/远程桌面秒连，测试机仅需 **$10/月起**！
+> 
+> 👉 **[点击前往 MacHub 官网选配](https://machub.co/)** | 💬 **[点击在 WhatsApp 咨询技术工程师](https://api.whatsapp.com/send?phone=17052807570)**
+
+
 全球首款 Web3 零门槛免费电视解决方案！结合高速海外专线与 Solana 去中心化凭证，实现港澳台、欧美、日韩全天候高清直播免费看，随时退币退出[cite: 12]。
 
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
